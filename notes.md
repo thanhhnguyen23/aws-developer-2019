@@ -157,10 +157,11 @@
 * take a look at package.json
   - notice how many dependencies are there in the file
   - notice the version aws-sdk is using
+# python sdk
+* install dependencies
+  ```
+  $ pip install boto3
+  ```
 
-
-
-
-
-
-
+# identify and access management (IAM)
+* 
